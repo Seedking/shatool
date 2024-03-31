@@ -1,0 +1,3 @@
+[submodule "src/scripts/crypto-js"]
+	path = src/scripts/crypto-js
+	url = https://github.com/brix/crypto-js.git
